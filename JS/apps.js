@@ -16,13 +16,13 @@ let sectionTwo = document.getElementById("sectionTwo")
 let Obj2={
     title2: "Project Completed",
     img1: "img.jpg",
-    desc1: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, est ratione aut veritatis placeat earum voluptatum blanditiis officiis soluta sunt quod atque modi dolor quibusdam, at illum commodi aspernatur quos.",
+    desc1: "I would be complex, I would be coolThey'd say I played the field before I found someone to commit toAnd that would be okay for me to doEvery conquest I had made would make me more of a boss to you.",
     btn1: "LearnMore",
     img2: "img.jpg",
-    desc2: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, est ratione aut veritatis placeat earum voluptatum blanditiis officiis soluta sunt quod atque modi dolor quibusdam, at illum commodi aspernatur quos.",
+    desc2: "I would be complex, I would be coolThey'd say I played the field before I found someone to commit toAnd that would be okay for me to doEvery conquest I had made would make me more of a boss to you.",
     btn2: "Learn More",
     img3: "img.jpg",
-    desc3: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, est ratione aut veritatis placeat earum voluptatum blanditiis officiis soluta sunt quod atque modi dolor quibusdam, at illum commodi aspernatur quos.",
+    desc3: "I would be complex, I would be coolThey'd say I played the field before I found someone to commit toAnd that would be okay for me to doEvery conquest I had made would make me more of a boss to you",
     btn3: "Learn More"
 }
 
